@@ -17,7 +17,8 @@
       "category": "channel",
       "source": {
         "source": "url",
-        "url": "https://github.com/jeremylongshore/claude-code-slack-channel.git"
+        "url": "https://github.com/jeremylongshore/claude-code-slack-channel.git",
+        "ref": "2ee0f4a76afb8854c6505ad6f5d9d108c3f7e6ec"
       }
     }
   ]

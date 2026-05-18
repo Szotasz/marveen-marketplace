@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "marveen-marketplace",
+  "description": "Marveen flotta-channels: third-party channel plugins (Slack, etc.) for ClaudeClaw agents",
+  "owner": {
+    "name": "Szota Szabolcs",
+    "email": "szota.szabolcs@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "slack-channel",
+      "description": "Two-way Slack channel for Claude Code — chat from Slack DMs and channels via Socket Mode (jeremylongshore upstream)",
+      "author": {
+        "name": "Jeremy Longshore",
+        "email": "jeremy@intentsolutions.io"
+      },
+      "category": "channel",
+      "source": {
+        "source": "github",
+        "repo": "jeremylongshore/claude-code-slack-channel"
+      }
+    }
+  ]
+}

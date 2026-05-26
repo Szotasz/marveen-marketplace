@@ -18,7 +18,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Szotasz/claude-code-slack-channel.git",
-        "ref": "6523942e752c446ee81b3324be4913b2fdca9781"
+        "ref": "main"
       }
     }
   ]

@@ -34,6 +34,20 @@
         "url": "https://github.com/Szotasz/whatsapp-channel.git",
         "ref": "main"
       }
+    },
+    {
+      "name": "teams",
+      "description": "Microsoft Teams channel for Claude Code. Azure Bot Service bridge with pairing, allowlist, and policy via /teams:access.",
+      "author": {
+        "name": "Szota Szabolcs",
+        "email": "szota.szabolcs@gmail.com"
+      },
+      "category": "channel",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Szotasz/claude-channel-teams.git",
+        "ref": "feat/setup-ux-adaptation"
+      }
     }
   ]
 }

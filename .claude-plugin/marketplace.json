@@ -46,7 +46,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Szotasz/claude-channel-teams.git",
-        "ref": "feat/setup-ux-adaptation"
+        "ref": "v0.3.3"
       }
     }
   ]
